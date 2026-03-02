@@ -1,0 +1,20 @@
+
+TENSORBOARD SCREENSHOT INSTRUCTIONS
+====================================
+
+1. Start TensorBoard:
+   tensorboard --logdir=logs/
+
+2. Open browser to: http://localhost:6006
+
+3. Navigate to the SCALARS tab
+
+4. Wait for all data to load
+
+5. Take a screenshot showing:
+   - Training and Validation Loss curves
+   - Training and Validation Accuracy curves
+
+6. Save the screenshot as: tensorboard.png in results/model/
+
+Alternative: Use the learning_curves.png which shows the same information.

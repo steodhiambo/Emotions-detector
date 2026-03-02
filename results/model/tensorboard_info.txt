@@ -1,0 +1,12 @@
+
+TensorBoard Training Log
+========================
+Date: 2026-03-02 13:47:37
+Best Epoch: 1
+Best Validation Accuracy: 0.0000 (0.00%)
+Best Validation Loss: 7.1023
+
+To view TensorBoard:
+    tensorboard --logdir=/home/steodhiambo/Emotions-detector/logs
+
+Then open http://localhost:6006 in your browser.
