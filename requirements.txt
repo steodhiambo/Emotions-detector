@@ -1,0 +1,17 @@
+# Deep Learning & Computer Vision
+tensorflow>=2.10.0
+keras>=2.10.0
+opencv-python>=4.7.0
+opencv-python-headless>=4.7.0
+
+# Data Processing
+numpy>=1.24.0
+pandas>=1.5.0
+
+# Visualization
+matplotlib>=3.6.0
+tensorboard>=2.10.0
+
+# Utilities
+scikit-learn>=1.2.0
+pillow>=9.4.0
