@@ -53,7 +53,7 @@ Emotions-detector/
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/steodhiambo/Emotions-detector.git
 cd Emotions-detector
 ```
 
